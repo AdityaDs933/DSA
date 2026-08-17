@@ -9,6 +9,7 @@ strugling to solve DSA question
 | [0007-reverse-integer](https://github.com/AdityaDs933/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AdityaDs933/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/AdityaDs933/DSA/tree/master/0012-integer-to-roman) |
+| [0509-fibonacci-number](https://github.com/AdityaDs933/DSA/tree/master/0509-fibonacci-number) |
 | [2427-number-of-common-factors](https://github.com/AdityaDs933/DSA/tree/master/2427-number-of-common-factors) |
 ## Array
 |  |
@@ -39,4 +40,16 @@ strugling to solve DSA question
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/AdityaDs933/DSA/tree/master/2427-number-of-common-factors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AdityaDs933/DSA/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AdityaDs933/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AdityaDs933/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
