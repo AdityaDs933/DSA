@@ -1,20 +1,12 @@
 class Solution{
     public boolean isPalindrome(int n){
-        int original=n;
-        int reverse=0;
-        if(original<0){
+        if(n<0){
             return false;
         }
+        String str=String.valueOf(n);
+        StringBuilder palindrome=new StringBuilder(str);
+        palindrome.reverse();
 
-        while(n>0){
-            int rem=(n%10);
-            reverse=reverse*10+rem;
-            n/=10;
-        }
-        if(original==reverse){
-            return true;
-        }else{
-            return false;
-        }
+        return palindrome.toString().equals(str);
     }
 }
