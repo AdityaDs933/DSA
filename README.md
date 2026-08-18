@@ -10,6 +10,7 @@ strugling to solve DSA question
 | [0009-palindrome-number](https://github.com/AdityaDs933/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/AdityaDs933/DSA/tree/master/0012-integer-to-roman) |
 | [0509-fibonacci-number](https://github.com/AdityaDs933/DSA/tree/master/0509-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AdityaDs933/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2427-number-of-common-factors](https://github.com/AdityaDs933/DSA/tree/master/2427-number-of-common-factors) |
 ## Array
 |  |
