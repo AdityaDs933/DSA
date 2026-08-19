@@ -16,11 +16,13 @@ strugling to solve DSA question
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdityaDs933/DSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/AdityaDs933/DSA/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdityaDs933/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/AdityaDs933/DSA/tree/master/0012-integer-to-roman) |
+| [0217-contains-duplicate](https://github.com/AdityaDs933/DSA/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -53,4 +55,8 @@ strugling to solve DSA question
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AdityaDs933/DSA/tree/master/0509-fibonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/AdityaDs933/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
