@@ -16,6 +16,7 @@ strugling to solve DSA question
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdityaDs933/DSA/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaDs933/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/AdityaDs933/DSA/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -63,5 +64,10 @@ strugling to solve DSA question
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaDs933/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/AdityaDs933/DSA/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaDs933/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
