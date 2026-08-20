@@ -27,6 +27,7 @@ strugling to solve DSA question
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AdityaDs933/DSA/tree/master/0012-integer-to-roman) |
+| [0344-reverse-string](https://github.com/AdityaDs933/DSA/tree/master/0344-reverse-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -59,4 +60,8 @@ strugling to solve DSA question
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AdityaDs933/DSA/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/AdityaDs933/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
