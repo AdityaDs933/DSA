@@ -16,6 +16,7 @@ strugling to solve DSA question
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdityaDs933/DSA/tree/master/0001-two-sum) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaDs933/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaDs933/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/AdityaDs933/DSA/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -23,6 +24,7 @@ strugling to solve DSA question
 | ------- |
 | [0001-two-sum](https://github.com/AdityaDs933/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/AdityaDs933/DSA/tree/master/0012-integer-to-roman) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaDs933/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0217-contains-duplicate](https://github.com/AdityaDs933/DSA/tree/master/0217-contains-duplicate) |
 ## String
 |  |
@@ -70,4 +72,16 @@ strugling to solve DSA question
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaDs933/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaDs933/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaDs933/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaDs933/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
