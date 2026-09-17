@@ -80,8 +80,18 @@ strugling to solve DSA question
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaDs933/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AdityaDs933/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaDs933/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AdityaDs933/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Stack
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/AdityaDs933/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/AdityaDs933/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
