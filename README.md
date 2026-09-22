@@ -20,6 +20,7 @@ strugling to solve DSA question
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaDs933/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/AdityaDs933/DSA/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/AdityaDs933/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/AdityaDs933/DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/AdityaDs933/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AdityaDs933/DSA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -106,4 +107,8 @@ strugling to solve DSA question
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/AdityaDs933/DSA/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/AdityaDs933/DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
