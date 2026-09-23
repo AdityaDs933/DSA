@@ -11,6 +11,7 @@ strugling to solve DSA question
 | [0012-integer-to-roman](https://github.com/AdityaDs933/DSA/tree/master/0012-integer-to-roman) |
 | [0509-fibonacci-number](https://github.com/AdityaDs933/DSA/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AdityaDs933/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1512-number-of-good-pairs](https://github.com/AdityaDs933/DSA/tree/master/1512-number-of-good-pairs) |
 | [2427-number-of-common-factors](https://github.com/AdityaDs933/DSA/tree/master/2427-number-of-common-factors) |
 ## Array
 |  |
@@ -22,6 +23,7 @@ strugling to solve DSA question
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AdityaDs933/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/AdityaDs933/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AdityaDs933/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/AdityaDs933/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/AdityaDs933/DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/AdityaDs933/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AdityaDs933/DSA/tree/master/1929-concatenation-of-array) |
@@ -32,6 +34,7 @@ strugling to solve DSA question
 | [0012-integer-to-roman](https://github.com/AdityaDs933/DSA/tree/master/0012-integer-to-roman) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaDs933/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0217-contains-duplicate](https://github.com/AdityaDs933/DSA/tree/master/0217-contains-duplicate) |
+| [1512-number-of-good-pairs](https://github.com/AdityaDs933/DSA/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -113,4 +116,8 @@ strugling to solve DSA question
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/AdityaDs933/DSA/tree/master/1672-richest-customer-wealth) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/AdityaDs933/DSA/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
