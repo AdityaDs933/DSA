@@ -13,6 +13,7 @@ strugling to solve DSA question
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AdityaDs933/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/AdityaDs933/DSA/tree/master/1512-number-of-good-pairs) |
 | [2427-number-of-common-factors](https://github.com/AdityaDs933/DSA/tree/master/2427-number-of-common-factors) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AdityaDs933/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Array
 |  |
 | ------- |
@@ -28,6 +29,7 @@ strugling to solve DSA question
 | [1672-richest-customer-wealth](https://github.com/AdityaDs933/DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/AdityaDs933/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AdityaDs933/DSA/tree/master/1929-concatenation-of-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AdityaDs933/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
