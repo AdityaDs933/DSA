@@ -31,6 +31,7 @@ strugling to solve DSA question
 | [1672-richest-customer-wealth](https://github.com/AdityaDs933/DSA/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/AdityaDs933/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/AdityaDs933/DSA/tree/master/1773-count-items-matching-a-rule) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AdityaDs933/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/AdityaDs933/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AdityaDs933/DSA/tree/master/1929-concatenation-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AdityaDs933/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -43,6 +44,7 @@ strugling to solve DSA question
 | [0217-contains-duplicate](https://github.com/AdityaDs933/DSA/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityaDs933/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/AdityaDs933/DSA/tree/master/1512-number-of-good-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AdityaDs933/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AdityaDs933/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -50,6 +52,7 @@ strugling to solve DSA question
 | [0012-integer-to-roman](https://github.com/AdityaDs933/DSA/tree/master/0012-integer-to-roman) |
 | [0344-reverse-string](https://github.com/AdityaDs933/DSA/tree/master/0344-reverse-string) |
 | [1773-count-items-matching-a-rule](https://github.com/AdityaDs933/DSA/tree/master/1773-count-items-matching-a-rule) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AdityaDs933/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AdityaDs933/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Enumeration
 |  |
