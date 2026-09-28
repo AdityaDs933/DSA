@@ -58,6 +58,7 @@ strugling to solve DSA question
 | ------- |
 | [0012-integer-to-roman](https://github.com/AdityaDs933/DSA/tree/master/0012-integer-to-roman) |
 | [0344-reverse-string](https://github.com/AdityaDs933/DSA/tree/master/0344-reverse-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaDs933/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/AdityaDs933/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AdityaDs933/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AdityaDs933/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -122,6 +123,7 @@ strugling to solve DSA question
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/AdityaDs933/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaDs933/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -159,4 +161,8 @@ strugling to solve DSA question
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/AdityaDs933/DSA/tree/master/0832-flipping-an-image) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaDs933/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
