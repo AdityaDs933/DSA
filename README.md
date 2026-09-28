@@ -25,6 +25,7 @@ strugling to solve DSA question
 | [0217-contains-duplicate](https://github.com/AdityaDs933/DSA/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/AdityaDs933/DSA/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/AdityaDs933/DSA/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/AdityaDs933/DSA/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AdityaDs933/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AdityaDs933/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityaDs933/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -129,6 +130,7 @@ strugling to solve DSA question
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/AdityaDs933/DSA/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/AdityaDs933/DSA/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AdityaDs933/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AdityaDs933/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/AdityaDs933/DSA/tree/master/1920-build-array-from-permutation) |
@@ -142,6 +144,7 @@ strugling to solve DSA question
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/AdityaDs933/DSA/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/AdityaDs933/DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/AdityaDs933/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/AdityaDs933/DSA/tree/master/1672-richest-customer-wealth) |
 ## Counting
