@@ -41,6 +41,7 @@ strugling to solve DSA question
 | [1732-find-the-highest-altitude](https://github.com/AdityaDs933/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/AdityaDs933/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AdityaDs933/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1854-maximum-population-year](https://github.com/AdityaDs933/DSA/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/AdityaDs933/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AdityaDs933/DSA/tree/master/1929-concatenation-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AdityaDs933/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -144,6 +145,7 @@ strugling to solve DSA question
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/AdityaDs933/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/AdityaDs933/DSA/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/AdityaDs933/DSA/tree/master/1854-maximum-population-year) |
 ## Matrix
 |  |
 | ------- |
@@ -155,6 +157,7 @@ strugling to solve DSA question
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/AdityaDs933/DSA/tree/master/1512-number-of-good-pairs) |
+| [1854-maximum-population-year](https://github.com/AdityaDs933/DSA/tree/master/1854-maximum-population-year) |
 ## Counting Sort
 |  |
 | ------- |
