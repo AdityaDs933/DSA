@@ -14,6 +14,7 @@ strugling to solve DSA question
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AdityaDs933/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AdityaDs933/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AdityaDs933/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AdityaDs933/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/AdityaDs933/DSA/tree/master/1512-number-of-good-pairs) |
 | [2427-number-of-common-factors](https://github.com/AdityaDs933/DSA/tree/master/2427-number-of-common-factors) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AdityaDs933/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -30,6 +31,7 @@ strugling to solve DSA question
 | [0989-add-to-array-form-of-integer](https://github.com/AdityaDs933/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AdityaDs933/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AdityaDs933/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AdityaDs933/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityaDs933/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AdityaDs933/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AdityaDs933/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
