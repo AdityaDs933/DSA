@@ -27,6 +27,7 @@ strugling to solve DSA question
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaDs933/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/AdityaDs933/DSA/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/AdityaDs933/DSA/tree/master/0485-max-consecutive-ones) |
+| [0566-reshape-the-matrix](https://github.com/AdityaDs933/DSA/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/AdityaDs933/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/AdityaDs933/DSA/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/AdityaDs933/DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -141,6 +142,7 @@ strugling to solve DSA question
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/AdityaDs933/DSA/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/AdityaDs933/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/AdityaDs933/DSA/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AdityaDs933/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -156,6 +158,7 @@ strugling to solve DSA question
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/AdityaDs933/DSA/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/AdityaDs933/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/AdityaDs933/DSA/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/AdityaDs933/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
