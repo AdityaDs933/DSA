@@ -9,6 +9,7 @@ strugling to solve DSA question
 | [0007-reverse-integer](https://github.com/AdityaDs933/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AdityaDs933/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/AdityaDs933/DSA/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/AdityaDs933/DSA/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/AdityaDs933/DSA/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/AdityaDs933/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AdityaDs933/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -23,6 +24,7 @@ strugling to solve DSA question
 | ------- |
 | [0001-two-sum](https://github.com/AdityaDs933/DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/AdityaDs933/DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/AdityaDs933/DSA/tree/master/0066-plus-one) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaDs933/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaDs933/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/AdityaDs933/DSA/tree/master/0217-contains-duplicate) |
