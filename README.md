@@ -33,6 +33,7 @@ strugling to solve DSA question
 | [0059-spiral-matrix-ii](https://github.com/AdityaDs933/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/AdityaDs933/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AdityaDs933/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/AdityaDs933/DSA/tree/master/0075-sort-colors) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaDs933/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaDs933/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AdityaDs933/DSA/tree/master/0189-rotate-array) |
@@ -119,12 +120,14 @@ strugling to solve DSA question
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AdityaDs933/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/AdityaDs933/DSA/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityaDs933/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaDs933/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/AdityaDs933/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaDs933/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AdityaDs933/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/AdityaDs933/DSA/tree/master/0344-reverse-string) |
@@ -214,4 +217,12 @@ strugling to solve DSA question
 | ------- |
 | [0055-jump-game](https://github.com/AdityaDs933/DSA/tree/master/0055-jump-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AdityaDs933/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AdityaDs933/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AdityaDs933/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
