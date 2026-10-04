@@ -33,6 +33,7 @@ strugling to solve DSA question
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaDs933/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaDs933/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/AdityaDs933/DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/AdityaDs933/DSA/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/AdityaDs933/DSA/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/AdityaDs933/DSA/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/AdityaDs933/DSA/tree/master/0832-flipping-an-image) |
@@ -166,6 +167,7 @@ strugling to solve DSA question
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/AdityaDs933/DSA/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/AdityaDs933/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/AdityaDs933/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/AdityaDs933/DSA/tree/master/1854-maximum-population-year) |
