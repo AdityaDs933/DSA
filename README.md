@@ -29,6 +29,7 @@ strugling to solve DSA question
 | [0054-spiral-matrix](https://github.com/AdityaDs933/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AdityaDs933/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/AdityaDs933/DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/AdityaDs933/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaDs933/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaDs933/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/AdityaDs933/DSA/tree/master/0217-contains-duplicate) |
@@ -64,6 +65,7 @@ strugling to solve DSA question
 | ------- |
 | [0001-two-sum](https://github.com/AdityaDs933/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/AdityaDs933/DSA/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/AdityaDs933/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaDs933/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0217-contains-duplicate](https://github.com/AdityaDs933/DSA/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityaDs933/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -172,6 +174,7 @@ strugling to solve DSA question
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaDs933/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AdityaDs933/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/AdityaDs933/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/AdityaDs933/DSA/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/AdityaDs933/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/AdityaDs933/DSA/tree/master/0867-transpose-matrix) |
