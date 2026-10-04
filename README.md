@@ -10,6 +10,7 @@ strugling to solve DSA question
 | [0009-palindrome-number](https://github.com/AdityaDs933/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/AdityaDs933/DSA/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/AdityaDs933/DSA/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/AdityaDs933/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/AdityaDs933/DSA/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/AdityaDs933/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AdityaDs933/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -34,6 +35,7 @@ strugling to solve DSA question
 | [0073-set-matrix-zeroes](https://github.com/AdityaDs933/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaDs933/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaDs933/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/AdityaDs933/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AdityaDs933/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AdityaDs933/DSA/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/AdityaDs933/DSA/tree/master/0485-max-consecutive-ones) |
@@ -124,6 +126,7 @@ strugling to solve DSA question
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaDs933/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaDs933/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/AdityaDs933/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/AdityaDs933/DSA/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/AdityaDs933/DSA/tree/master/0832-flipping-an-image) |
 ## Binary Search
