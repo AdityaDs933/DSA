@@ -37,6 +37,7 @@ strugling to solve DSA question
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaDs933/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaDs933/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AdityaDs933/DSA/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/AdityaDs933/DSA/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/AdityaDs933/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AdityaDs933/DSA/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/AdityaDs933/DSA/tree/master/0485-max-consecutive-ones) |
@@ -108,6 +109,7 @@ strugling to solve DSA question
 | ------- |
 | [0053-maximum-subarray](https://github.com/AdityaDs933/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AdityaDs933/DSA/tree/master/0055-jump-game) |
+| [0198-house-robber](https://github.com/AdityaDs933/DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/AdityaDs933/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
