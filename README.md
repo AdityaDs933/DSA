@@ -43,6 +43,7 @@ strugling to solve DSA question
 | [0238-product-of-array-except-self](https://github.com/AdityaDs933/DSA/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/AdityaDs933/DSA/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/AdityaDs933/DSA/tree/master/0566-reshape-the-matrix) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/AdityaDs933/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/AdityaDs933/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/AdityaDs933/DSA/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/AdityaDs933/DSA/tree/master/0885-spiral-matrix-iii) |
@@ -142,6 +143,7 @@ strugling to solve DSA question
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AdityaDs933/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/AdityaDs933/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaDs933/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/AdityaDs933/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
