@@ -68,6 +68,7 @@ strugling to solve DSA question
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AdityaDs933/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/AdityaDs933/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AdityaDs933/DSA/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AdityaDs933/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AdityaDs933/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -128,6 +129,7 @@ strugling to solve DSA question
 | [0075-sort-colors](https://github.com/AdityaDs933/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/AdityaDs933/DSA/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityaDs933/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AdityaDs933/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +146,7 @@ strugling to solve DSA question
 | [0162-find-peak-element](https://github.com/AdityaDs933/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaDs933/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AdityaDs933/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AdityaDs933/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
