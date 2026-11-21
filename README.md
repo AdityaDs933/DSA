@@ -49,6 +49,7 @@ strugling to solve DSA question
 | [0867-transpose-matrix](https://github.com/AdityaDs933/DSA/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/AdityaDs933/DSA/tree/master/0885-spiral-matrix-iii) |
 | [0989-add-to-array-form-of-integer](https://github.com/AdityaDs933/DSA/tree/master/0989-add-to-array-form-of-integer) |
+| [1095-find-in-mountain-array](https://github.com/AdityaDs933/DSA/tree/master/1095-find-in-mountain-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AdityaDs933/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AdityaDs933/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AdityaDs933/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -148,6 +149,7 @@ strugling to solve DSA question
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaDs933/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AdityaDs933/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AdityaDs933/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/AdityaDs933/DSA/tree/master/1095-find-in-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AdityaDs933/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
@@ -243,4 +245,9 @@ strugling to solve DSA question
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AdityaDs933/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/AdityaDs933/DSA/tree/master/1095-find-in-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/AdityaDs933/DSA/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
