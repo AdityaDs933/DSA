@@ -45,6 +45,7 @@ strugling to solve DSA question
 | [0566-reshape-the-matrix](https://github.com/AdityaDs933/DSA/tree/master/0566-reshape-the-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AdityaDs933/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/AdityaDs933/DSA/tree/master/0832-flipping-an-image) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AdityaDs933/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/AdityaDs933/DSA/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/AdityaDs933/DSA/tree/master/0885-spiral-matrix-iii) |
 | [0989-add-to-array-form-of-integer](https://github.com/AdityaDs933/DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -146,6 +147,7 @@ strugling to solve DSA question
 | [0162-find-peak-element](https://github.com/AdityaDs933/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaDs933/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AdityaDs933/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AdityaDs933/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AdityaDs933/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
@@ -237,4 +239,8 @@ strugling to solve DSA question
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AdityaDs933/DSA/tree/master/0075-sort-colors) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AdityaDs933/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
