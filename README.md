@@ -42,6 +42,7 @@ strugling to solve DSA question
 | [0198-house-robber](https://github.com/AdityaDs933/DSA/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/AdityaDs933/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AdityaDs933/DSA/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/AdityaDs933/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/AdityaDs933/DSA/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/AdityaDs933/DSA/tree/master/0566-reshape-the-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AdityaDs933/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -117,6 +118,7 @@ strugling to solve DSA question
 | [0053-maximum-subarray](https://github.com/AdityaDs933/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AdityaDs933/DSA/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/AdityaDs933/DSA/tree/master/0198-house-robber) |
+| [0410-split-array-largest-sum](https://github.com/AdityaDs933/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/AdityaDs933/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -149,6 +151,7 @@ strugling to solve DSA question
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AdityaDs933/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/AdityaDs933/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaDs933/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0410-split-array-largest-sum](https://github.com/AdityaDs933/DSA/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AdityaDs933/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AdityaDs933/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/AdityaDs933/DSA/tree/master/1095-find-in-mountain-array) |
@@ -195,6 +198,7 @@ strugling to solve DSA question
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AdityaDs933/DSA/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/AdityaDs933/DSA/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/AdityaDs933/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/AdityaDs933/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/AdityaDs933/DSA/tree/master/1854-maximum-population-year) |
@@ -234,6 +238,7 @@ strugling to solve DSA question
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AdityaDs933/DSA/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/AdityaDs933/DSA/tree/master/0410-split-array-largest-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AdityaDs933/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Quicksort
 |  |
